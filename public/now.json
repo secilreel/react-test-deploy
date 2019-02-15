@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "alias": "[secilree]-testdeploy-app",
+    "alias": "secilreel-deploy-test",
     "name": "bookmarks-app",
     "routes": [
         {
