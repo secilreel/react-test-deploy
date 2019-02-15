@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "alias": "[secilree]-testdeploy-app",
+    "name": "bookmarks-app",
+    "routes": [
+        {
+          "src": "^/static/(.*)",
+          "dest": "/static/$1"
+        },
+        {
+          "src": ".*",
+          "dest": "/index.html"
+        }
+    ]
+  }
